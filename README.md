@@ -9,6 +9,7 @@ Topic: Dementia, Alzheimer's disease and how it slowly develops over decades
 ```
 scrollorama_project/
 ├── app.py           # Flask app for a simple backend to serve the data
+├── data
 ├── static/          # Static files (HTML, CSS, JS)
 │   ├── script.js    # The D3.js and Scrollama code
 │   └── styles.css   # CSS styles
