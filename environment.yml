@@ -1,0 +1,14 @@
+name: scrollorama
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - flask
+  - flask-cors
+  - pip
+  - numpy
+  - pandas
+  - ipykernel
+  - pygwalker=0.4.9.13
+  - pip:
+      - autopep8  # Optional for formatting
